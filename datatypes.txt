@@ -1,0 +1,7 @@
+int
+String
+Boolean
+double
+ int x =10;
+ String name = 'Soujanya'
+ double price = 10.5
